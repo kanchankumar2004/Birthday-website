@@ -13,19 +13,14 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `Param Mitraa Ayushi,
 
-Your personalized birthday message goes here.
+Wishing you a day filled with love, joy, and all the things that make you smile. You deserve the very best on your special day and always.
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— Kanchan`;
 
   // Handle page transitions
   useEffect(() => {
