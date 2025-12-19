@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ��� Birthday Countdown Website
 
 Beautiful birthday website with countdown, photo gallery, and celebration effects!
@@ -70,8 +71,8 @@ const targetDate = new Date("2025-12-25T12:00:00");
 **File:** `src/components/MessageCard.jsx` (Lines 17-28)
 
 ```javascript
-const recipientName = "Divyanshi";
-const senderName = "Ashmit";
+const recipientName = "Kanchan";
+const senderName = "Chota Don";
 const message = `Your message here...`;
 ```
 
@@ -223,3 +224,7 @@ Refresh page (Ctrl + R)
 ---
 
 **Made with ❤️**
+=======
+# Birthday-website
+This website is used for birthday website.. It is made with react...
+>>>>>>> 20bfbf646662bbb71926ab1935dd9d38cc9e484f
