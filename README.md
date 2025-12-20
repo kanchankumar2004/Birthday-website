@@ -228,3 +228,8 @@ Refresh page (Ctrl + R)
 # Birthday-website
 This website is used for birthday website.. It is made with react...
 >>>>>>> 20bfbf646662bbb71926ab1935dd9d38cc9e484f
+
+
+git add .
+git commit -m "your message"
+git push
